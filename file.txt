@@ -1,1 +1,1 @@
-This is new file for git conflicts
+This is new file for git Merge conflicts
